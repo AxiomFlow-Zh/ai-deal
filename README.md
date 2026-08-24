@@ -35,10 +35,6 @@
 
 ![报价详情](assets/screenshots/offer-details.png)
 
-### 搜索结果场景
-
-![搜索结果场景](assets/screenshots/search-results.png)
-
 ## 使用说明
 
 AI猎手仅聚合公开信息，不销售商品、不代下单，也不对第三方店铺或商品作安全背书。价格、库存、交付内容与售后规则可能变化，购买前请打开原商品页再次核验。
