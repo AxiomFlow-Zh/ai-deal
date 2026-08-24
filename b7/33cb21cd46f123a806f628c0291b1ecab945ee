@@ -1,0 +1,14 @@
+README.md
+  h_6c1099383666e2 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "b733cb21cd46f123a806f628c0291b1ecab945ee",
+  "prompts": {},
+  "humans": {
+    "h_6c1099383666e2": {
+      "author": "官笑明 <2291898215@qq.com>"
+    }
+  }
+}
