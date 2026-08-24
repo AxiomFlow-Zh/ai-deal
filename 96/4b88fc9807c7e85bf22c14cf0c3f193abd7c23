@@ -1,0 +1,20 @@
+README.md
+  s_bdf1d37cd1aa64::t_9b33274b5d0242 3,5,9-10,20-40
+  s_bdf1d37cd1aa64::t_b7bed4750744bf 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "964b88fc9807c7e85bf22c14cf0c3f193abd7c23",
+  "prompts": {},
+  "sessions": {
+    "s_bdf1d37cd1aa64": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03437-0132-7162-9fcd-a2e8fe385242",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "官笑明 <2291898215@qq.com>"
+    }
+  }
+}
